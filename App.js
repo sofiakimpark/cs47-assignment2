@@ -66,10 +66,4 @@ const styles = StyleSheet.create({
     backgroundColor: themes.light.bg,
     margin: 30,
   },
-  headerStyle: {
-    flex: 1,
-  },
-  bodyStyle: {
-    flex: 2,
-  }
 });
